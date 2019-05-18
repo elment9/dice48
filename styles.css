@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+  }
+  
+  .splash-container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  #dice {
+    font-size: 320px;
+    /*Aqui cambie de color*/
+    color: white;
+     /*Aqui cambie el tamaño*/
+    max-width: 450px;
+    height: 450px;
+    margin: 0 auto;
+  }
+  #dice:hover {
+    cursor: pointer;
+  }
+  
+  
+  body {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    background: #cc0000;
+  }
+  #dice {
+    font-size: 320px;
+    color: aliceblue;
+  }
+  #dice:hover {
+    cursor: pointer;
+  }
+
+  #message {
+font-size: 48px;
+color: white;
+
+}
