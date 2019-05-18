@@ -1,3 +1,6 @@
+/* @import url('https://fonts.googleapis.com/css?family=Orbitron&display=swap'); */
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono&display=swap');
+
 body {
     text-align: center;
     font-family: Helvetica, sans-serif;
@@ -40,5 +43,9 @@ body {
   #message {
 font-size: 48px;
 color: white;
+font-family: 'Ubuntu Mono', monospace;
+}
 
+#dice { 
+    -ms-touch-action: none !important;
 }
